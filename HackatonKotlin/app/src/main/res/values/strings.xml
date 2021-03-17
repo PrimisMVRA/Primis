@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hackaton</string>
+    <string name="title_home">Главная</string>
+    <string name="title_settings">Настройки</string>
+    <string name="home_label_log_text">Лог событий</string>
+    <string name="home_sw_listener_text">Голосовой анализ</string>
+    <string name="sets_label_card_num">Номер карты</string>
+    <string name="sets_label_card_name">Держатель карты (Опционально)</string>
+    <string name="sets_label_card_valid_thru">Действительна до</string>
+    <string name="sets_label_card_cvv">CVV/CVC</string>
+    <string name="sets_sw_send_req">Посылать запрос при угрозе</string>
+    <string name="sets_b_save">Сохранить</string>
+    <string name="sets_b_cancel">Отмена</string>
+    <string name="sets_input_card_num_hint">Введите номер карты</string>
+    <string name="sets_input_card_holder_hint">Имя Фамилия</string>
+    <string name="sets_input_card_cvv_hint">Введите CVV/CVC</string>
+    <string name="app_admin_activation">Приложению требуется дополнительные права для доступа к обработке голосовой информации во время звонков</string>
+    <string name="app_err_card_num">Номер карты состоит из 16 цифр</string>
+</resources>
